@@ -53,7 +53,7 @@ pip install customtkinter pyautogui pillow opencv-python
 #### 2. Run the Application
 
 ```bash
-python AutomatorPro.py
+python AutomatePro.py
 ```
 
 ---
