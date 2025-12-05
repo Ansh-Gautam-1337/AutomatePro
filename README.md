@@ -1,5 +1,5 @@
-AutoMate Pro - Visual Automation Builder
-========================================
+AutoMate Pro - Visual Automation Builder By Ansh Gautam
+=======================================================
 
 **AutoMate Pro** is a production-grade, GUI-based workflow builder for Python's pyautogui library. It allows users to create, test, and export complex desktop automation scripts without writing a single line of code manually.
 
